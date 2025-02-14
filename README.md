@@ -24,6 +24,8 @@ You can download the app from the following link:
 [Download Here](https://linktr.ee/alsivi01?utm_source=linktree_admin_share)
 
 Or scan the QR code provided in the app's materials.
+![Download QR](https://imgur.com/a/09BD54w)
+
 
 
 ## Project Management
