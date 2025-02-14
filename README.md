@@ -24,7 +24,8 @@ You can download the app from the following link:
 [Download Here](https://linktr.ee/alsivi01?utm_source=linktree_admin_share)
 
 Or scan the QR code provided in the app's materials.
-![Download QR](https://i.imgur.com/p0QyHa4.png)
+![Download QR] <img src="https://i.imgur.com/p0QyHa4.png" alt="Download QR" width="200">
+ 
 
 
 
