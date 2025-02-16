@@ -21,10 +21,12 @@ With its unique approach, **Love 4 Code** redefines networking for developers, b
 
 ## Download
 You can download the app from the following link:
-[Download Here](https://linktr.ee/alsivi01?utm_source=linktree_admin_share)
+[Download Here]([https://linktr.ee/alsivi01])
+
+<img src="https://i.imgur.com/p0QyHa4.png" alt="Download QR" width="200">
 
 Or scan the QR code provided in the app's materials.
-![Download QR] <img src="https://i.imgur.com/p0QyHa4.png" alt="Download QR" width="200">
+![Download QR] 
  
 
 
