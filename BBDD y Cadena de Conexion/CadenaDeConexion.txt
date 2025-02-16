@@ -1,0 +1,15 @@
+============================
+APLICATION.PROPIERTIES (API)
+============================
+
+spring.data.mongodb.host= localhost
+spring.data.mongodb.port= 27017
+spring.data.mongodb.database= love4code
+
+============================
+CADENA DE CONEXION MONGODB
+============================
+
+Localhost: mongodb://34.232.87.107:27017/
+
+Usuario y Contraseña : mongodb://love4code:1234@34.232.87.107:27017/
