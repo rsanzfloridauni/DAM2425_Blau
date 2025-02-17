@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Love4Code",
+    "slug": "snack-866bc946-3999-4d3d-96c0-e21658a99dda",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./imgs/logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./imgs/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./imgs/logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pons1.snack866bc94639994d3d96c0e21658a99dda"
+    },
+    "web": {
+      "favicon": "./imgs/logo.png"
+    },
+    "statusBar": {
+    "hidden": true
+  }
+  }
+}
