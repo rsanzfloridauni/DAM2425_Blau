@@ -25,6 +25,9 @@ You can download the app from the following link:
 
 <img src="https://i.imgur.com/ep1zZB1.png" alt="Download QR" width="200">
 
+DEMO VIDEO: https://youtube.com/shorts/jfyF_jd33K4
+Elevator Pitch: https://youtu.be/0kRz1npdx8M
+
 Or scan the QR code provided in the app's materials.
 ![Download QR] 
  
